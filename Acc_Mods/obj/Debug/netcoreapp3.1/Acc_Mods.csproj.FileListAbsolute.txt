@@ -1,0 +1,13 @@
+/Users/yusifnazarbayov/Projects/Acc_Mods/bin/Debug/netcoreapp3.1/Acc_Mods.deps.json
+/Users/yusifnazarbayov/Projects/Acc_Mods/bin/Debug/netcoreapp3.1/Acc_Mods.runtimeconfig.json
+/Users/yusifnazarbayov/Projects/Acc_Mods/bin/Debug/netcoreapp3.1/Acc_Mods.runtimeconfig.dev.json
+/Users/yusifnazarbayov/Projects/Acc_Mods/bin/Debug/netcoreapp3.1/Acc_Mods.dll
+/Users/yusifnazarbayov/Projects/Acc_Mods/bin/Debug/netcoreapp3.1/Acc_Mods.pdb
+/Users/yusifnazarbayov/Projects/Acc_Mods/obj/Debug/netcoreapp3.1/Acc_Mods.csproj.AssemblyReference.cache
+/Users/yusifnazarbayov/Projects/Acc_Mods/obj/Debug/netcoreapp3.1/Acc_Mods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusifnazarbayov/Projects/Acc_Mods/obj/Debug/netcoreapp3.1/Acc_Mods.AssemblyInfoInputs.cache
+/Users/yusifnazarbayov/Projects/Acc_Mods/obj/Debug/netcoreapp3.1/Acc_Mods.AssemblyInfo.cs
+/Users/yusifnazarbayov/Projects/Acc_Mods/obj/Debug/netcoreapp3.1/Acc_Mods.csproj.CoreCompileInputs.cache
+/Users/yusifnazarbayov/Projects/Acc_Mods/obj/Debug/netcoreapp3.1/Acc_Mods.dll
+/Users/yusifnazarbayov/Projects/Acc_Mods/obj/Debug/netcoreapp3.1/Acc_Mods.pdb
+/Users/yusifnazarbayov/Projects/Acc_Mods/obj/Debug/netcoreapp3.1/Acc_Mods.genruntimeconfig.cache

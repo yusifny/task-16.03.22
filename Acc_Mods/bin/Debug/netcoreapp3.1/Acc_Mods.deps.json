@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Acc_Mods/1.0.0": {
+        "runtime": {
+          "Acc_Mods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Acc_Mods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
